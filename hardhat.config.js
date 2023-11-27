@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const PRIVATE_KEY = '3a0fce958b2ec479436207ee9019db45242d26092b1055a0b44ce2a467e668b8'
-const GOERLI_RPC_URL = 'https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161'
+const PRIVATE_KEY = 'PRIVATE_KEY'
+const GOERLI_RPC_URL = 'GOERLI_RPC_URL'
 
 
 /** @type import('hardhat/config').HardhatUserConfig */
